@@ -1,6 +1,6 @@
 {
   "name": "truffle-fast-compile",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "fast compiling solidity smart contracts to truffle build files",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/vitiko/truffle-fast-compile.git"
   },
   "bin": {
-    "truffle-fast-compile": "./indez.js"
+    "truffle-fast-compile": "./index.js"
   },
   "keywords": [
     "truffle",
@@ -20,7 +20,11 @@
     "solc",
     "compile"
   ],
-  "author": "https://github.com/vitiko",
+  "author": {
+    "name": "Vitiko",
+    "email": "vitiko@mail.ru",
+    "url" : "https://github.com/vitiko"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vitiko/truffle-fast-compile/issues"
