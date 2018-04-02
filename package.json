@@ -1,6 +1,6 @@
 {
   "name": "truffle-fast-compile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fast compiling solidity smart contracts to truffle build files",
   "main": "index.js",
   "scripts": {

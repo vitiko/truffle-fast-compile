@@ -14,7 +14,7 @@ const truffleBuildTemplate = {
   updated_at: null
 };
 
-const truffleBuildDir = './build/contracts';
+const truffleBuildDir = `${ process.cwd() }/build/contracts`;
 const startAt = new Date();
 
 if (!process.argv[2]) {

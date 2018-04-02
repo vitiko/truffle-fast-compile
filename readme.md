@@ -30,7 +30,7 @@ This package provides wrapper for `solc` command
 
 ## Installation
 
-`npm -i truffle-fast-compile`
+`npm i -g truffle-fast-compile`
 
 ## Usage 
 
